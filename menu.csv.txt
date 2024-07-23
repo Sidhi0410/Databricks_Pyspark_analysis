@@ -1,0 +1,6 @@
+1, PIZZA, 100, Bhopal
+2, Chowmin, 150, gwalior
+3, sandwich, 120, moorena
+4, Dosa, 110, delhi
+5, Biryani, 80, mumbai
+6, Pasta, 180, patna
